@@ -1,2 +1,2 @@
 # project_2
-Creating React App
+Creating React App and learning  about branching
